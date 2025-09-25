@@ -1,0 +1,7 @@
+steps to delete columns
+
+1. pip install required imports
+2. move the csv you want to make changes to into a folder with the script
+3. on lines 8 and 9 enter the name of the csv your changing and your desired name of the output (make them the same to overwrite, although I wouldnt reccomend this because if you mess up you cant get it back)
+4. on line 18, specify the column or columns you want to delete, if your deleting multiple make sure its 1 per line and the correct syntax
+5. run the file
